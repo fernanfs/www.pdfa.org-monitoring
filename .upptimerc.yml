@@ -2,15 +2,17 @@
 owner: fernanfs # Your GitHub organization or username, where this repository lives
 repo: www.pdfa.org-monitoring # The name of this repository
 
+# The names of the sites should not be changed. These are used as "keys" to access the monitoring data.
+# Changing the name effectively gets rid of the monitoring history
 sites:
-  - name: PDF Association (www.pdfa.org)
+  - name: PDF Association (pdfa.org)
     url: https://www.pdfa.org
   - name: PDF Association Solution Agent
     url: https://www.pdfa.org/solution-agent/
   - name: PDF Association Product Showcase
     url: https://www.pdfa.org/products/
-  - name: PDFA Association, Inc. (www.pdfa-inc.org)
-    url: https://www.pdfa-inc.org
+  - name: PDFA Association, Inc. (pdfa-inc.org)
+    url: https://pdfa-inc.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
