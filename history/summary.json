@@ -1,20 +1,20 @@
 [
   {
-    "name": "PDF Association (www.pdfa.org)",
+    "name": "PDF Association (pdfa.org)",
     "url": "https://www.pdfa.org",
     "icon": "https://favicons.githubusercontent.com/www.pdfa.org",
-    "slug": "pdf-association-www-pdfa-org",
+    "slug": "pdf-association-pdfa-org",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 754,
-    "timeDay": 754,
-    "timeWeek": 754,
-    "timeMonth": 754,
-    "timeYear": 754,
+    "time": 765,
+    "timeDay": 765,
+    "timeWeek": 765,
+    "timeMonth": 765,
+    "timeYear": 765,
     "dailyMinutesDown": {}
   },
   {
@@ -54,23 +54,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "PDFA Association, Inc. (www.pdfa-inc.org)",
-    "url": "https://www.pdfa-inc.org",
-    "icon": "https://favicons.githubusercontent.com/www.pdfa-inc.org",
-    "slug": "pdfa-association-inc-www-pdfa-inc-org",
-    "status": "down",
-    "uptime": "8.68%",
-    "uptimeDay": "8.68%",
-    "uptimeWeek": "8.68%",
-    "uptimeMonth": "8.68%",
-    "uptimeYear": "8.68%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-09-15": 0
-    }
+    "name": "PDFA Association, Inc. (pdfa-inc.org)",
+    "url": "https://pdfa-inc.org",
+    "icon": "https://favicons.githubusercontent.com/pdfa-inc.org",
+    "slug": "pdfa-association-inc-pdfa-inc-org",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 416,
+    "timeDay": 416,
+    "timeWeek": 416,
+    "timeMonth": 416,
+    "timeYear": 416,
+    "dailyMinutesDown": {}
   }
 ]
