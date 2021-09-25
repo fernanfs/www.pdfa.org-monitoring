@@ -4,9 +4,9 @@
     "url": "https://www.pdfa.org",
     "icon": "https://favicons.githubusercontent.com/www.pdfa.org",
     "slug": "pdf-association-pdfa-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 977,
     "timeMonth": 958,
     "timeYear": 958,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-25": 0
+    }
   },
   {
     "name": "PDF Association Solution Agent",
     "url": "https://www.pdfa.org/solution-agent/",
     "icon": "https://favicons.githubusercontent.com/www.pdfa.org",
     "slug": "pdf-association-solution-agent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,14 +35,16 @@
     "timeWeek": 347,
     "timeMonth": 338,
     "timeYear": 338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-25": 0
+    }
   },
   {
     "name": "PDF Association Product Showcase",
     "url": "https://www.pdfa.org/products/",
     "icon": "https://favicons.githubusercontent.com/www.pdfa.org",
     "slug": "pdf-association-product-showcase",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 2533,
     "timeMonth": 2424,
     "timeYear": 2424,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-25": 0
+    }
   },
   {
     "name": "PDFA Association, Inc. (pdfa-inc.org)",
