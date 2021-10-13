@@ -17,8 +17,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: status.pdfa.org
-  baseUrl: /www.pdfa.org-monitoring
+  cname: status.pdfa.org
+  #baseUrl: /www.pdfa.org-monitoring
   logoUrl: https://www.pdfa.org/wp-content/uploads/2018/12/pdf-association-logo-300x141.png
   name: PDF Association Status
   introTitle: "Service Status Overview"
