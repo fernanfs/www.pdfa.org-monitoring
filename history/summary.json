@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.86%",
-    "time": 897,
-    "timeDay": 1033,
-    "timeWeek": 901,
-    "timeMonth": 888,
-    "timeYear": 897,
+    "time": 907,
+    "timeDay": 1250,
+    "timeWeek": 934,
+    "timeMonth": 904,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2021-09-25": 66
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.86%",
-    "time": 612,
-    "timeDay": 824,
-    "timeWeek": 663,
-    "timeMonth": 639,
-    "timeYear": 612,
+    "time": 618,
+    "timeDay": 839,
+    "timeWeek": 666,
+    "timeMonth": 657,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2021-09-25": 66
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.86%",
-    "time": 1326,
-    "timeDay": 803,
-    "timeWeek": 596,
-    "timeMonth": 1244,
-    "timeYear": 1326,
+    "time": 1311,
+    "timeDay": 811,
+    "timeWeek": 595,
+    "timeMonth": 1192,
+    "timeYear": 1311,
     "dailyMinutesDown": {
       "2021-09-25": 66
     }
@@ -65,18 +65,16 @@
     "icon": "https://favicons.githubusercontent.com/pdfa-inc.org",
     "slug": "pdfa-association-inc-pdfa-inc-org",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 559,
-    "timeDay": 610,
-    "timeWeek": 548,
-    "timeMonth": 560,
-    "timeYear": 559,
-    "dailyMinutesDown": {
-      "2021-10-17": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 562,
+    "timeDay": 644,
+    "timeWeek": 552,
+    "timeMonth": 567,
+    "timeYear": 562,
+    "dailyMinutesDown": {}
   }
 ]
