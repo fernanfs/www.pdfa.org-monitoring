@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 938,
-    "timeDay": 911,
-    "timeWeek": 960,
+    "time": 943,
+    "timeDay": 1208,
+    "timeWeek": 1036,
     "timeMonth": 984,
-    "timeYear": 938,
+    "timeYear": 943,
     "dailyMinutesDown": {
       "2021-09-25": 66
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 639,
-    "timeDay": 991,
-    "timeWeek": 681,
-    "timeMonth": 680,
-    "timeYear": 639,
+    "time": 641,
+    "timeDay": 768,
+    "timeWeek": 756,
+    "timeMonth": 678,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2021-09-25": 66
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/www.pdfa.org",
     "slug": "pdf-association-product-showcase",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 1126,
-    "timeDay": 2066,
-    "timeWeek": 1013,
-    "timeMonth": 777,
-    "timeYear": 1126,
+    "uptimeYear": "99.92%",
+    "time": 1145,
+    "timeDay": 2223,
+    "timeWeek": 1106,
+    "timeMonth": 822,
+    "timeYear": 1145,
     "dailyMinutesDown": {
       "2021-09-25": 66
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 771,
-    "timeDay": 1375,
-    "timeWeek": 1057,
-    "timeMonth": 937,
-    "timeYear": 771,
+    "time": 778,
+    "timeDay": 1157,
+    "timeWeek": 1070,
+    "timeMonth": 953,
+    "timeYear": 778,
     "dailyMinutesDown": {}
   }
 ]
