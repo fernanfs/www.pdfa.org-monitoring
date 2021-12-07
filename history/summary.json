@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 954,
-    "timeDay": 1080,
-    "timeWeek": 818,
-    "timeMonth": 999,
-    "timeYear": 954,
+    "time": 955,
+    "timeDay": 1071,
+    "timeWeek": 884,
+    "timeMonth": 993,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2021-09-25": 66
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 694,
-    "timeDay": 954,
-    "timeWeek": 801,
-    "timeMonth": 821,
-    "timeYear": 694,
+    "time": 697,
+    "timeDay": 922,
+    "timeWeek": 844,
+    "timeMonth": 822,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2021-09-25": 66
     }
@@ -46,15 +46,15 @@
     "slug": "pdf-association-product-showcase",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.93%",
-    "time": 1008,
-    "timeDay": 1501,
-    "timeWeek": 728,
-    "timeMonth": 814,
-    "timeYear": 1008,
+    "time": 1019,
+    "timeDay": 1987,
+    "timeWeek": 913,
+    "timeMonth": 850,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2021-12-05": 15,
       "2021-09-25": 66
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 872,
-    "timeDay": 1600,
-    "timeWeek": 1049,
-    "timeMonth": 1090,
+    "timeDay": 868,
+    "timeWeek": 1008,
+    "timeMonth": 1083,
     "timeYear": 872,
     "dailyMinutesDown": {}
   }
