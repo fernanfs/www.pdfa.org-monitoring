@@ -24,9 +24,9 @@
     "url": "https://www.pdfa.org/solution-agent/",
     "icon": "https://favicons.githubusercontent.com/www.pdfa.org",
     "slug": "pdf-association-solution-agent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -36,6 +36,7 @@
     "timeMonth": 916,
     "timeYear": 748,
     "dailyMinutesDown": {
+      "2021-12-30": 0,
       "2021-09-25": 66
     }
   },
