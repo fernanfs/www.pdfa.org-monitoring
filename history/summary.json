@@ -6,9 +6,9 @@
     "slug": "pdf-association-pdfa-org",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1001,
     "timeDay": 1268,
@@ -16,7 +16,6 @@
     "timeMonth": 1140,
     "timeYear": 1001,
     "dailyMinutesDown": {
-      "2022-03-02": 6,
       "2022-02-01": 31,
       "2021-09-25": 66
     }
@@ -47,9 +46,9 @@
     "url": "https://www.pdfa.org/products/",
     "icon": "https://favicons.githubusercontent.com/www.pdfa.org",
     "slug": "pdf-association-product-showcase",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -59,6 +58,7 @@
     "timeMonth": 798,
     "timeYear": 917,
     "dailyMinutesDown": {
+      "2022-03-02": 0,
       "2021-12-05": 15,
       "2021-09-25": 66
     }
