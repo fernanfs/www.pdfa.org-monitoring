@@ -1,7 +1,7 @@
 url: https://www.pdfa.org
-status: up
-code: 200
-responseTime: 1730
-lastUpdated: 2023-10-30T23:02:19.427Z
+status: down
+code: 500
+responseTime: 5587
+lastUpdated: 2023-10-31T08:14:30.541Z
 startTime: 2021-09-15T19:36:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
