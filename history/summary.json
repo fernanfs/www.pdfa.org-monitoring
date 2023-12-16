@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1235,
-    "timeDay": 1396,
-    "timeWeek": 1268,
-    "timeMonth": 1878,
-    "timeYear": 1340,
+    "timeDay": 1298,
+    "timeWeek": 1295,
+    "timeMonth": 1882,
+    "timeYear": 1342,
     "dailyMinutesDown": {
       "2023-10-30": 25,
       "2023-07-17": 40
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 958,
-    "timeDay": 812,
-    "timeWeek": 782,
-    "timeMonth": 929,
-    "timeYear": 913,
+    "time": 959,
+    "timeDay": 787,
+    "timeWeek": 785,
+    "timeMonth": 928,
+    "timeYear": 914,
     "dailyMinutesDown": {
       "2023-10-30": 25
     }
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 880,
-    "timeDay": 790,
-    "timeWeek": 750,
+    "timeDay": 767,
+    "timeWeek": 749,
     "timeMonth": 869,
-    "timeYear": 843,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2023-10-30": 25
     }
@@ -67,14 +67,14 @@
     "slug": "pdfa-association-inc-pdfa-inc-org",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.62%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1094,
-    "timeDay": 979,
-    "timeWeek": 1178,
-    "timeMonth": 986,
+    "timeDay": 973,
+    "timeWeek": 1155,
+    "timeMonth": 963,
     "timeYear": 1055,
     "dailyMinutesDown": {
       "2023-12-14": 20,
