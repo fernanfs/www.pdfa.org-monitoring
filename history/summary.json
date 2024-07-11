@@ -83,9 +83,9 @@
     "slug": "pdfa-association-inc-pdfa-inc-org",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1148,
     "timeDay": 1440,
@@ -93,7 +93,6 @@
     "timeMonth": 1201,
     "timeYear": 1172,
     "dailyMinutesDown": {
-      "2024-07-10": 14,
       "2023-12-14": 20,
       "2023-10-30": 25
     }
