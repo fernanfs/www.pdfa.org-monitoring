@@ -78,19 +78,19 @@
     "url": "https://pdfa-inc.org",
     "icon": "https://icons.duckduckgo.com/ip3/pdfa-inc.org.ico",
     "slug": "pdfa-association-inc-pdfa-inc-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1195,
-    "timeDay": 2216,
-    "timeWeek": 1497,
-    "timeMonth": 1179,
+    "time": 1196,
+    "timeDay": 1885,
+    "timeWeek": 1467,
+    "timeMonth": 1180,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2025-05-05": 0,
+      "2025-05-05": 6,
       "2025-03-27": 36
     }
   }
