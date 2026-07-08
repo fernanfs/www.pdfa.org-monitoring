@@ -4,22 +4,22 @@
     "url": "https://www.pdfa.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.pdfa.org.ico",
     "slug": "pdf-association-pdfa-org",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "48.37%",
+    "uptimeWeek": "92.62%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "99.84%",
     "time": 1458,
-    "timeDay": 614,
-    "timeWeek": 1023,
-    "timeMonth": 1236,
-    "timeYear": 1435,
+    "timeDay": 829,
+    "timeWeek": 1049,
+    "timeMonth": 1237,
+    "timeYear": 1434,
     "dailyMinutesDown": {
       "2025-12-05": 30,
       "2026-02-10": 21,
       "2026-06-01": 37,
-      "2026-07-08": 1
+      "2026-07-08": 743
     }
   },
   {
@@ -28,11 +28,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pdfa.org.ico",
     "slug": "pdf-association-solution-agent",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.92%",
+    "uptimeDay": "48.35%",
+    "uptimeWeek": "92.62%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "99.83%",
     "time": 768,
     "timeDay": 339,
     "timeWeek": 900,
@@ -43,7 +43,7 @@
       "2025-12-05": 30,
       "2026-02-10": 21,
       "2026-06-01": 37,
-      "2026-07-08": 0
+      "2026-07-08": 744
     }
   },
   {
@@ -52,11 +52,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pdfa.org.ico",
     "slug": "pdf-association-product-showcase",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.92%",
+    "uptimeDay": "48.36%",
+    "uptimeWeek": "92.62%",
+    "uptimeMonth": "98.07%",
+    "uptimeYear": "99.82%",
     "time": 969,
     "timeDay": 553,
     "timeWeek": 1259,
@@ -68,7 +68,7 @@
       "2026-05-04": 28,
       "2026-06-01": 37,
       "2026-06-22": 104,
-      "2026-07-08": 0
+      "2026-07-08": 744
     }
   },
   {
